@@ -24,11 +24,11 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="Javascript" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/javascript.png"></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img align="left" alt="Dotnet" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="Csharp" height ="42px" src="https://docs.microsoft.com/de-de/windows/images/csharp-logo.png"></a>
-<a href="https://dart.dev/" target="_blank"> <img align="left" alt="Cplusplus" height ="42px" src="/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"></a>
+<a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" height ="42px" src="/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"></a>
 <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/java.png"></a>
 <a href="https://kotlinlang.org/" target="_blank"> <img align="left" alt="Kotlin" height ="42px" src="./assets/tech-stack/kotlin.jpg"></a>
-<a href="https://www.cplusplus.com/" target="_blank"> <img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/c.png"></a>
-<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language" target="_blank"> <img align="left" alt="Cplusplus" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/cpp.png"></a>
+<a href="https://www.cplusplus.com/" target="_blank"> <img align="left" alt="Cplusplus" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/c.png"></a>
+<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language" target="_blank"> <img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/cpp.png"></a>
 
 
 
