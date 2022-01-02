@@ -64,11 +64,11 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySql" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/mysql.svg"></a>
 
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySql" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/mysql.svg"></a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img align="left" alt="MsSql" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/mssql.png"></a>
 
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img align="left" alt="PostgreSql" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/mssql.png"></a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSql" height ="42px" src="https://www.postgresql.org/media/img/about/press/elephant.png"></a>
 
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySql" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/mysql.svg"></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MySql" height ="42px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"></a>
 
 <br>
 
