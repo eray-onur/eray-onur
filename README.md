@@ -71,7 +71,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSql" height ="42px" src="https://www.postgresql.org/media/img/about/press/elephant.png"></a>
 
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDb" height ="42px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDb" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/mongodb.png"></a>
 
 <br>
 
