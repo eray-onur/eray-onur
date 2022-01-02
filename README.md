@@ -3,7 +3,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <br/>
 <br/>
 
-<img style="display: block;margin: 0 auto;" align="center" alt="GIF" src="./techstack.gif"/>
+<!-- <img style="display: block;margin: 0 auto;" align="center" alt="GIF" src="./techstack.gif"/> -->
   
 ### 🧐 More About Me:
 
