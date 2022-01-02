@@ -17,13 +17,10 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="/tech-stack/react.png"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="./assets/tech-stack/react.png"></a>
 <br>
 ### 📊 Github Stats
 <a href='https://github-readme-stats.vercel.app/api?username=eray-onur&count_private=true'>
-  
-<!-- ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg) -->
 
 </a>
 
