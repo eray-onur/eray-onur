@@ -60,6 +60,15 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 <br>
 
+#### Unit/Integration/E2E Testing
+
+<a href="https://jestjs.io/" target="_blank"> <img align="left" alt="Jest" height ="42px" src="https://nodejs.org/static/images/jest.png"></a>
+<a href="https://www.cypress.io/" target="_blank"> <img align="left" alt="Cypress" height ="42px" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp"></a>
+
+<br>
+
+<br>
+
 ### 🛠️ My Projects
 - <a href="https://github.com/eray-onur/zeuserp-webui" target="_blank">Zeus ERP - Frontend (Angular 2+)</a>
 - <a href="https://github.com/eray-onur/zeuserp-backend" target="_blank">Zeus ERP - Backend (.NET Core 3.1)</a>
