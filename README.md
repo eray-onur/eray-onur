@@ -74,6 +74,16 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 <br>
 
+#### Continuous Integration & Delivery
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="AspDotnet" height ="42px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></a>
+<a href="https://www.heroku.com/" target="_blank"> <img align="left" alt="Node" height ="42px" src="https://www3.assets.heroku.com/assets/logo-purple-08fb38cebb99e3aac5202df018eb337c5be74d5214768c90a8198c97420e4201.svg"></a>
+<a href="https://spring.io/" target="_blank"> <img align="left" alt="Spring" height ="42px" src="https://spring.io/icon_144x144.png"></a>
+
+
+<br>
+
+<br>
+
 #### Unit/Integration/E2E Testing
 
 <a href="https://jestjs.io/" target="_blank"> <img align="left" alt="Jest" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/jest.png"></a>
