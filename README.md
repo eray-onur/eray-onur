@@ -79,7 +79,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <a href="https://www.heroku.com/" target="_blank"> <img align="left" alt="Node" height ="42px" src="https://www3.assets.heroku.com/assets/logo-purple-08fb38cebb99e3aac5202df018eb337c5be74d5214768c90a8198c97420e4201.svg"></a>
 <a href="https://github.com/features/actions" target="_blank"> <img align="left" alt="GithubActions" height ="42px" src="https://dpsvdv74uwwos.cloudfront.net/statics/img/drive/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.png"></a>
 
-<a href="https://azure.microsoft.com/en-us/services/devops/server/" target="_blank"> <img align="left" alt="GithubActions" height ="42px" src="https://www.solidatech.fr/sites/default/files/styles/adb_produit_fiche/public/outil/prod-ms-azure-devops-server_big.png?itok=2CaegTiV"></a>
+<a href="https://azure.microsoft.com/en-us/services/devops/server/" target="_blank"> <img align="left" alt="AzureDevops" height ="42px" src="https://www.solidatech.fr/sites/default/files/styles/adb_produit_fiche/public/outil/prod-ms-azure-devops-server_big.png?itok=2CaegTiV"></a>
 
 
 
