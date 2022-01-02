@@ -64,6 +64,8 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 <a href="https://jestjs.io/" target="_blank"> <img align="left" alt="Jest" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/jest.png"></a>
 <a href="https://www.cypress.io/" target="_blank"> <img align="left" alt="Cypress" height ="42px" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp"></a>
+<a href="https://nunit.org/" target="_blank"> <img align="left" alt="NUnit" height ="42px" src="https://nunit.org/img/nunit.svg"></a>
+
 
 <br>
 
