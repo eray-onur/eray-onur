@@ -46,10 +46,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <br>
 
 ### 📊 Github Stats
-<a href='https://github-readme-stats.vercel.app/api?username=eray-onur&count_private=true'>
-  
-<!-- ![Stats Overview]()
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg) -->
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=eray-onur&show_icons=true)
 
 </a>
 
