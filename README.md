@@ -1,5 +1,4 @@
 ## Hey there 👋, Eray Onur here!
-<a href='https://www.linkedin.com/in/eray-onur/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who turned his hobby into his profession: building useful software of all sorts! 💻
 <br/>
 <br/>
@@ -12,7 +11,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 - 📚 &nbsp; I’m currently learning Domain Driven Design, Microservices and Kubernetes!
 - 💎 &nbsp; Some of my projects are available on [Github](https://github.com/eray-onur?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/eray-onur/)
+- 📫 &nbsp; Feel free to ping me on <a href='https://www.linkedin.com/in/eray-onur/'><img alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 
 <br>
 
