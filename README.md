@@ -4,7 +4,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <br/>
 <br/>
 
-<img style="display: block;" alt="GIF" src="./techstack.gif" width="100%"/>
+<img style="display: block;margin: 0 auto;" alt="GIF" src="./techstack.gif"/>
   
 ### 🧐 More About Me:
 
