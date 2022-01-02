@@ -57,7 +57,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/eray-onur/zeuserp-webui" target="_blank">Zeus ERP - Frontend (Angular 2+)</a>
-<a href="https://github.com/eray-onur/zeuserp-backend" target="_blank">Zeus ERP - Backend (.NET Core 3.1)</a>
-<a href="https://github.com/eray-onur/image-to-webp-converter" target="_blank">Image to Webp Converter (Node.js / Fastify)</a>
-<a href="https://github.com/eray-onur/reversed-spider-soltaire" target="_blank">Reversed Spider Solitaire (React - Redux)</a>
+- <a href="https://github.com/eray-onur/zeuserp-webui" target="_blank">Zeus ERP - Frontend (Angular 2+)</a>
+- <a href="https://github.com/eray-onur/zeuserp-backend" target="_blank">Zeus ERP - Backend (.NET Core 3.1)</a>
+- <a href="https://github.com/eray-onur/image-to-webp-converter" target="_blank">Image to Webp Converter (Node.js / Fastify)</a>
+- <a href="https://github.com/eray-onur/reversed-spider-soltaire" target="_blank">Reversed Spider Solitaire (React - Redux)</a>
