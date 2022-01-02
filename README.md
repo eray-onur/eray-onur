@@ -44,7 +44,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="Node" height ="42px" src="https://nodejs.org/static/images/logo.svg"></a>
 <a href="https://spring.io/" target="_blank"> <img align="left" alt="Spring" height ="42px" src="https://spring.io/icon_144x144.png"></a>
 
-<br>
+--- 
 
 ### 📊 Github Stats
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=eray-onur&show_icons=true)
