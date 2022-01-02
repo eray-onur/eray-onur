@@ -64,6 +64,12 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySql" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/mysql.svg"></a>
 
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySql" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/mysql.svg"></a>
+
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img align="left" alt="PostgreSql" height ="42px" src="https://www.postgresql.org/media/img/about/press/mssql.png"></a>
+
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySql" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/mysql.svg"></a>
+
 <br>
 
 <br>
