@@ -20,7 +20,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 #### Programming Languages & Ecosystems
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img align="left" alt="Dotnet" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png"></a>
-
+<br>
 
 #### Frontend Development
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height ="42px" src="https://vuejs.org/images/logo.svg"></a>
@@ -31,14 +31,11 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 #### Mobile Development
 <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Dotnet" height ="42px" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"></a>
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="Node" height ="42px" src="https://nodejs.org/static/images/logo.svg"></a>
-
-
+<br>
 #### Backend Development
 
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="Node" height ="42px" src="https://nodejs.org/static/images/logo.svg"></a>
 <a href="https://spring.io/" target="_blank"> <img align="left" alt="Spring" height ="42px" src="https://spring.io/icon_144x144.png"></a>
-
-
 
 <br>
 
