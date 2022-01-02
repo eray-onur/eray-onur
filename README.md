@@ -27,6 +27,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/java.png"></a>
 
 <br>
+<br>
 
 #### Frontend Development
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height ="42px" src="https://vuejs.org/images/logo.svg"></a>
@@ -34,11 +35,13 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/react.png"></a>
 
 <br>
+<br>
 
 #### Mobile Development
 <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"></a>
 <a href="https://www.android.com/" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/android.jpg"></a>
 
+<br>
 <br>
 
 #### Backend Development
