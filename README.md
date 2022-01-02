@@ -30,8 +30,9 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 #### Mobile Development
 <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Dotnet" height ="42px" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"></a>
-<a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="Node" height ="42px" src="https://nodejs.org/static/images/logo.svg"></a>
+<a href="https://www.android.com/" target="_blank"> <img align="left" alt="Node" height ="42px" src="https://logos-world.net/wp-content/uploads/2021/08/Android-Logo.png"></a>
 <br>
+
 #### Backend Development
 
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="Node" height ="42px" src="https://nodejs.org/static/images/logo.svg"></a>
