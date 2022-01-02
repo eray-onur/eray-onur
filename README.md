@@ -16,7 +16,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <br>
 
 ### 🔨 Languages and Tools:
-<br>
+--- 
 
 #### Programming Languages & Ecosystems
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="Javascript" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/javascript.png"></a>
