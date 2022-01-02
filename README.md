@@ -26,7 +26,8 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="Csharp" height ="42px" src="https://docs.microsoft.com/de-de/windows/images/csharp-logo.png"></a>
 <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/java.png"></a>
 <a href="https://kotlinlang.org/" target="_blank"> <img align="left" alt="Kotlin" height ="42px" src="./assets/tech-stack/kotlin.jpg"></a>
-<a href="https://www.cplusplus.com/" target="_blank"> <img align="left" alt="Cplusplus" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/cpp.png"></a>
+<a href="https://www.cplusplus.com/" target="_blank"> <img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/c.png"></a>
+<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language" target="_blank"> <img align="left" alt="Cplusplus" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/cpp.png"></a>
 
 
 <br>
