@@ -14,6 +14,9 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 - 📫 &nbsp; Feel free to ping me on <a href='https://www.linkedin.com/in/eray-onur/'><img alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 
 
+### 📊 Github Stats
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=eray-onur&show_icons=true)
+
 ### 🔨 Languages and Tools:
 --- 
 
@@ -45,13 +48,6 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 
 <br>
-
-<br>
-
-### 📊 Github Stats
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=eray-onur&show_icons=true)
-
-</a>
 
 <br>
 
