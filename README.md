@@ -94,7 +94,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 #### Unit/Integration/E2E Testing
 
 <a href="https://jestjs.io/" target="_blank"> <img align="left" alt="Jest" height ="42px" src="https://raw.githubusercontent.com/eray-onur/eray-onur/main/assets/tech-stack/jest.png"></a>
-<a href="https://www.cypress.io/" target="_blank"> <img align="left" alt="Cypress" height ="42px" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp"></a>
+<a href="https://www.cypress.io/" target="_blank"> <img align="left" alt="Cypress" height ="42px" src="https://www.cypress.io/static/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png"></a>
 <a href="https://nunit.org/" target="_blank"> <img align="left" alt="Perforce" height ="42px" src="https://nunit.org/img/nunit.svg"></a>
 
 
