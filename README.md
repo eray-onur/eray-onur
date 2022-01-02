@@ -68,16 +68,16 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSql" height ="42px" src="https://www.postgresql.org/media/img/about/press/elephant.png"></a>
 
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MySql" height ="42px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDb" height ="42px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"></a>
 
 <br>
 
 <br>
 
 #### Continuous Integration & Delivery
-<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="AspDotnet" height ="42px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height ="42px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></a>
 <a href="https://www.heroku.com/" target="_blank"> <img align="left" alt="Node" height ="42px" src="https://www3.assets.heroku.com/assets/logo-purple-08fb38cebb99e3aac5202df018eb337c5be74d5214768c90a8198c97420e4201.svg"></a>
-<a href="https://spring.io/" target="_blank"> <img align="left" alt="Spring" height ="42px" src="https://spring.io/icon_144x144.png"></a>
+<a href="https://github.com/features/actions" target="_blank"> <img align="left" alt="GithubActions" height ="42px" src="https://dpsvdv74uwwos.cloudfront.net/statics/img/drive/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.png"></a>
 
 
 <br>
