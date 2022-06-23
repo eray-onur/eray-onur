@@ -8,7 +8,7 @@ I am a professional Full-Stack Web and Cross-Platform Mobile App Developer who t
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on a **top secret b2b/b2c project**...
-- 📚 &nbsp; I’m currently learning Data-Intensive Application Design, Apache Kafka, Microservices and Kubernetes!
+- 📚 &nbsp; I’m currently learning Apache Kafka, Microservices and Kubernetes!
 - 💎 &nbsp; Some of my projects are available on [Github](https://github.com/eray-onur?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on <a href='https://www.linkedin.com/in/eray-onur/'><img alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
